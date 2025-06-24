@@ -10,7 +10,6 @@ const MovieCard = ({ movie:
           `https://image.tmdb.org/t/p/w500/${poster_path}` : '/content.png'}
         alt={title}
       />
-
       <div className="mt-4">
         <h3>{title}</h3>
 
